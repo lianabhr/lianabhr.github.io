@@ -2,22 +2,21 @@
 
 ---
 
-### Category Name 1 
+### UiTM Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Gender Identification From Twitter Using Text Analytics: Project Overview](/sample_page)
+<img src="images/comparison discussion.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Emerging Trends in Hacking Activities](/pdf/sample_presentation.pdf)
+<img src="images/Data Viz Group Project.png?raw=true"/>
 
 ---
 
-### Category Name 2
+
+---
+
+### List of Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
