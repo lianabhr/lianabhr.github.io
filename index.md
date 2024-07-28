@@ -1,20 +1,4 @@
-## Portfolio
-
----
-
-### UiTM Projects
-
-[Project 1 Gender Identification From Twitter Using Text Analytics: Project Overview](/sample_page)
-<img src="images/comparison discussion.png?raw=true"/>
-
----
-[Project 2 Emerging Trends in Hacking Activities](/pdf/sample_presentation.pdf)
-<img src="images/Data Viz Group Project.png?raw=true"/>
-
----
-
-
----
+## This is Liana's Data Science Portfolio
 
 ### List of Projects
 
@@ -25,6 +9,18 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### Python and KNN (Human Resource Analytics)
+
+This is an analysis on Human Resource dataset. Accounts department have the highest dissatisfaction, and lead to high attrition rate. Result from analysis, number of project assigned per year, is affecting satisfaction level, and the attrition rate.
+
+Project link: 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1yxgKBbfMVYdHgxaFEjo02bG3tbtbeXmu?usp=sharing)
+
+---
+
+
+
 
 
 
