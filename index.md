@@ -1,35 +1,33 @@
-## Portfolio
-
+# Portfolio
 ---
+## Natural Language Processing
 
-### Category Name 1 
+### Sentiment Analysis on Tripadvisor reviews
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GWBoZ82PrUXAquEyJ8PlkOQHQKmtSiMP?usp=sharing)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<div style="text-align: justify">Used sentiment analysis to understand how people feel about hotels and restaurants based on their TripAdvisor reviews.</div>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+<center><img src="images/most_used_words_rating5.png" width="400"/></center>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Supervised Machine Learning
+
+### HR attrition analytics
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1-SGc3R11sbXpsAOuD6MjyBlS15zoaPjO?usp=sharing)
+
+<div style="text-align: justify">Used the K Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.</div>
+
+---
+## Data Visualization and Bigquery SQL
+
+### Chicago Crime Data in 2019 to 2024 Report
+
+[![Click To See Interactive Dashboard](https://img.shields.io/badge/build-Click_To_See_Interactive_Dashboard-blue?logo=looker&logoColor=FDBA18&label=Looker)](https://lookerstudio.google.com/reporting/4749d3f8-e95c-4425-b013-c3cf44127102)
+
+<div style="text-align: justify">This group project's objective is to find out if Chicago safe to live in and to find out if there is correlation between crime occurance and covid cases. Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.</div>
+<br>
+<center><img src="images/looker1.png" width="500"/></center>
+<br>
