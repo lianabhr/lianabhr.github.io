@@ -1,3 +1,8 @@
+---
+layout: default
+title: Your Page Title
+---
+
 # Portfolio
 
 ---
@@ -23,7 +28,7 @@
 
 <div style="text-align: justify">Used the K-Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.</div>
 <br>
-<div style="text-align: justify">The K-Nearest Neighbor model did a great job! It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.</div>
+<div style="text-align: justify">The K-Nearest Neighbor model did a great job. It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.</div>
 <br>
 <center><img src="images/knn.png"/></center>
 <br>
