@@ -66,8 +66,8 @@ title: Your Page Title
 <br>
 
 - This group project's objective:-
-⋅⋅1. to find out if Chicago safe to live in.
-⋅⋅2. to find out if there is correlation between crime occurance and covid cases.
+   - to find out if Chicago safe to live in.
+   - to find out if there is correlation between crime occurance and covid cases.
 
 - Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.
 
