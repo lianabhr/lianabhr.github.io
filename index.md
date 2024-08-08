@@ -14,7 +14,7 @@ title: Your Page Title
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GWBoZ82PrUXAquEyJ8PlkOQHQKmtSiMP?usp=sharing)
 
 <div style="text-align: justify">Used sentiment analysis to understand how people feel about hotels and restaurants based on their TripAdvisor reviews.</div>
-
+<br>
 • Tool Used: Python
 
 • Method: VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon
