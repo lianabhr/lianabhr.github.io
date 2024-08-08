@@ -45,8 +45,7 @@ title: Your Page Title
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1-SGc3R11sbXpsAOuD6MjyBlS15zoaPjO?usp=sharing)
 <br>
-<div style="text-align: justify">Used the K-Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.</div>
-<br>
+<div style="text-align: justify">Used the K-Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.</div><br>
 <div style="text-align: justify">The K-Nearest Neighbor model did a great job. It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.</div>
 <br>
 <center><img src="images/knn.png"/></center>
@@ -63,12 +62,12 @@ title: Your Page Title
 <br>
 <div style="text-align: justify">
   
-  - This group project's objective:-
+- This group project's objective:-
     <br>
   1. to find out if Chicago safe to live in 
   2. to find out if there is correlation between crime occurance and covid cases.
      <br>
-  - Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.</div>
+- Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.</div>
 <br>
 <center><img src="images/looker1.png" width="500"/></center>
 <br>
