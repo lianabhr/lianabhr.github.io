@@ -62,7 +62,7 @@ title: Portfolio
 ### Chicago Crime Data in 2019 to 2024 Report
 
 [![Click For Interactive Dashboard](https://img.shields.io/badge/build-Click_For_Interactive_Dashboard-blue?logo=looker&logoColor=FDBA18&label=Looker)](https://lookerstudio.google.com/reporting/4749d3f8-e95c-4425-b013-c3cf44127102)
-[![View BigQuery Code on GitHub](https://img.shields.io/badge/GitHub-View_BigQuery_Code_on_GitHub-blue?logo=GitHub)](https://lianabhr.github.io/SQL/index.html)
+[![View BigQuery Code on GitHub](https://img.shields.io/badge/GitHub-View_BigQuery_Code_on_GitHub-blue?logo=GitHub)](https://github.com/lianabhr/SQL/index.html)
 <br>
 
 - This group project's objective:-
