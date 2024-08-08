@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Page Title
+title: Portfolio
 ---
 
 # Portfolio
