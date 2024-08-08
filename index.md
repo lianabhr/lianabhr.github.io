@@ -49,6 +49,8 @@ title: Your Page Title
 <div style="text-align: justify">
 
 - Used the K-Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.
+</div>
+<div>
 
 - The K-Nearest Neighbor model did a great job. It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.
 
@@ -67,10 +69,9 @@ title: Your Page Title
 [![View BigQuery Code on GitHub](https://img.shields.io/badge/GitHub-View_BigQuery_Code_on_GitHub-blue?logo=GitHub)](https://lianabhr.github.io/SQL/)
 <br>
 <div style="text-align: justify">
-<br>
 
 - This group project's objective:-
-  1. to find out if Chicago safe to live in.
+- 1. to find out if Chicago safe to live in.
   2. to find out if there is correlation between crime occurance and covid cases.
 
 - Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.
