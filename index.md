@@ -14,6 +14,25 @@ title: Your Page Title
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1GWBoZ82PrUXAquEyJ8PlkOQHQKmtSiMP?usp=sharing)
 
 <div style="text-align: justify">Used sentiment analysis to understand how people feel about hotels and restaurants based on their TripAdvisor reviews.</div>
+
+• Tool Used: Python
+
+• Method: VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon
+
+• What I Did:
+  - Collected reviews from TripAdvisor
+  - Used Python to analyze the reviews
+  - Found out if reviews were positive, negative, neutral with compound score.
+
+• What I Learned:
+  - How to use Python for text analysis
+  - How to understand customer feelings from their words
+  - The importance of customer feedback for businesses
+
+• Next Steps:
+  - Use this method on other review sites
+  - Compare results with other sentiment analysis tools
+  - Share findings with business owners to help them improve
 <br>
 <center><img src="images/most_used_words.png" width="400"/></center>
 <br>
