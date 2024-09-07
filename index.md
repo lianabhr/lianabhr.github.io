@@ -68,7 +68,7 @@ This project demonstrates the application of linear regression to analyze the re
 ### Data Visualization
 
 <br>
-<center><img src="images/newplot.png"/></center>
+<center><img src="images/newplot.png" width="800"/></center>
 <br>
 
 
