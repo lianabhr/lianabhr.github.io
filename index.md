@@ -16,12 +16,16 @@ title: Portfolio
 <div style="text-align: justify">Used sentiment analysis to understand how people feel about hotels and restaurants based on their TripAdvisor reviews.</div>
 <br>
 
+- Business Obejectives:
+  - Which parts do we / they need to improve?
+  - What are their USPs?
+
 - Tool Used: Python
 
 - Method: VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon
 
 - What I Did:
-  - Collected reviews from TripAdvisor
+  - load data into Google Colab
   - Used Python to analyze the reviews
   - Found out if reviews were positive, negative, neutral with compound score.
 
@@ -47,9 +51,13 @@ title: Portfolio
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1-SGc3R11sbXpsAOuD6MjyBlS15zoaPjO?usp=sharing)
 <br>
 
-- Used the K-Nearest Neighbor model to analyze why employees might leave their jobs, helping companies keep their best workers.
+- Business Obejctives:
+  - why employees might leave their jobs?
 
-- The K-Nearest Neighbor model did a great job. It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.
+- Method: K-Nearest Neighbor.
+
+- Conclusion:
+  - The K-Nearest Neighbor model did a great job. It was right about 96.33% of the time when predicting outcomes. This means it made correct guesses for almost 96 out of every 100 cases. This high accuracy shows that the model is very good at understanding and predicting patterns in the data. It's a strong result that suggests the K-Nearest Neighbor method works well for this particular problem.
 
 <br>
 <center><img src="images/knn.png"/></center>
@@ -74,7 +82,7 @@ This project demonstrates the application of linear regression to analyze the re
 
 ### Methodology
 
-We employed Ordinary Least Squares (OLS) regression to fit a linear model to our dataset of 200 advertising sales. The model was implemented using Python's scikit-learn library.
+I employed Ordinary Least Squares (OLS) regression to fit a linear model to our dataset of 200 advertising sales. The model was implemented using Python's scikit-learn library.
 
 ### Key Findings
 
@@ -85,7 +93,7 @@ We employed Ordinary Least Squares (OLS) regression to fit a linear model to our
 
 ### Conclusion
 
-Our analysis reveals a significant relationship between social media advertising spend and sales. This model can serve as a useful tool for estimating the impact of advertising budgets on sales performance, though other factors should also be considered for more accurate predictions with higher R² value.
+My analysis reveals a significant relationship between social media advertising spend and sales. This model can serve as a useful tool for estimating the impact of advertising budgets on sales performance, though other factors should also be considered for more accurate predictions with higher R² value.
 
 ### Future Work
 
