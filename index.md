@@ -106,9 +106,12 @@ My analysis reveals a significant relationship between social media advertising 
 
 ### Chicago Crime Data in 2019 to 2024 Report
 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1aQdftvtArZapAZT0OPvZA_YvkXsawSUf#scrollTo=wzzl-aOu-Nzw)
 [![Click For Interactive Dashboard](https://img.shields.io/badge/build-Click_For_Interactive_Dashboard-blue?logo=looker&logoColor=FDBA18&label=Looker)](https://lookerstudio.google.com/reporting/4749d3f8-e95c-4425-b013-c3cf44127102)
 [![View BigQuery Code on GitHub](https://img.shields.io/badge/GitHub-View_BigQuery_Code_on_GitHub-blue?logo=GitHub)](https://lianabhr.github.io/SQL/)
 <br>
+
+- Import data into BigQuery using Google Colab.
 
 - This group project's objective:-
    - to find out if Chicago safe to live in.
