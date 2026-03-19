@@ -104,20 +104,18 @@ My analysis reveals a significant relationship between social media advertising 
 
 ## Data Visualization and Bigquery SQL
 
-### Chicago Crime Data in 2019 to 2024 Report
+### Chicago Crime Data in 2020 to 2024 Report
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1aQdftvtArZapAZT0OPvZA_YvkXsawSUf#scrollTo=wzzl-aOu-Nzw)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1tr7eB0B4pIznCfaPVZdvlsWgB7XAfQ8_#scrollTo=L5zwwUDg7kcY)
 [![Click For Interactive Dashboard](https://img.shields.io/badge/build-Click_For_Interactive_Dashboard-blue?logo=looker&logoColor=FDBA18&label=Looker)](https://lookerstudio.google.com/reporting/4749d3f8-e95c-4425-b013-c3cf44127102)
-[![View BigQuery Code on GitHub](https://img.shields.io/badge/GitHub-View_BigQuery_Code_on_GitHub-blue?logo=GitHub)](https://lianabhr.github.io/SQL/)
 <br>
 
 - Import data into BigQuery using Google Colab.
 
 - This group project's objective:-
-   - to find out if Chicago safe to live in.
-   - to find out if there is correlation between crime occurance and covid cases.
-
-- Real world data is taken from <a href="https://data.cityofchicago.org/">Chicago Data Portal</a> website.
+   - to find out if city of Chicago safe to live in.
+     
+- Real world data is taken from <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data">Chicago Data Portal</a> website.
 
 <br>
 <center><img src="images/looker1.png" width="500"/></center>
