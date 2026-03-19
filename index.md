@@ -118,5 +118,5 @@ My analysis reveals a significant relationship between social media advertising 
 - Real world data is taken from <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data">Chicago Data Portal</a> website.
 
 <br>
-<center><img src="images/looker1.png" width="500"/></center>
+<center><img src="images/looker2.png" width="500"/></center>
 <br>
